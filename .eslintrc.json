@@ -20,6 +20,7 @@
         "lodash"
     ],
     "rules": {
-        "lodash/import-scope": [2, "member"]
+        "lodash/import-scope": [2, "member"],
+        "no-console": "warn"
     }
 }
