@@ -13,8 +13,8 @@ function App() {
   const { t, i18n } = useTranslation();
 
   const languageOptions = [
-    { value: 'en', label: 'English' },
-    { value: 'pl', label: 'Polish' },
+    { value: 'en-US', label: 'English' },
+    { value: 'pl-PL', label: 'Polish' },
   ];
 
   const currentLanguage = find(
