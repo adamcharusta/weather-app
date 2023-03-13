@@ -21,6 +21,8 @@
     ],
     "rules": {
         "lodash/import-scope": [2, "member"],
-        "no-console": "warn"
+        "no-console": "warn",
+        "react/jsx-props-no-spreading": "off",
+        "no-unused-vars": "warn"
     }
 }
